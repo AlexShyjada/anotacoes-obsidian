@@ -22,9 +22,7 @@ Estou fazendo as anotações em markdown através de um software chamado Obsidia
 ### **Iniciando o projeto**
 
 ```bash
-# Para editar aqui basta clonar o repositório e abrir qualquer editor que use markdown
-
-## Minha recomendação é usar o Obsidian, mas fique a vontade para usar qualquer software
+# Para editar aqui use um software com suporte a markdown apenas
 ```
 
 ---
