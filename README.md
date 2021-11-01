@@ -8,7 +8,8 @@ Esse repositório contém várias anotações sobre assuntos que estou estudando
 
 Estou fazendo as anotações em markdown através de um software chamado Obsidian, o link para baixar vai estar na seção de tecnologias.
 
-![[preview.png]]
+
+![Preview](../../assets/preview.png "Preview Obsidian")
 
 ---
 
