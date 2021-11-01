@@ -1,4 +1,4 @@
-## My portfolio v2
+## Anotações no Obsidian
 
 Esse repositório contém várias anotações sobre assuntos que estou estudando sobre Desenvolvimento Web e Design UI/UX
 
